@@ -12,9 +12,7 @@ Our data comes from various sources, including government agencies, academic res
 
 ## Pipeline
 
-<svg xmlns="/Users/turbold/Documents/Projects/SOA-Breathe-Mongolia/Data/Process chart.svg" width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="red" />
-</svg>
+<img src="Data/Process chart.svg" alt="SVG Image" width="300" />
 
 ## Analysis
 

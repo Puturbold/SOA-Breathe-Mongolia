@@ -12,7 +12,7 @@ Our data comes from various sources, including government agencies, academic res
 
 ## Pipeline
 
-<img src="Process chart.svg" alt="SVG Image" width="300" />
+<img src="Process chart.svg" alt="SVG Image" width="600" />
 
 ## Analysis
 

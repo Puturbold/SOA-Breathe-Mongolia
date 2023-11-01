@@ -8,6 +8,18 @@ import pandas as pd
 import geopandas as gpd
 import plotly.express as px
 
+#Load Data and cache it so that it doesn't have to be loaded everytime I update the site
+@st.cache()
+def load_data():
+    daily_avg = pd.read_csv('Data/daily_avg.csv')
+    AQI_final = pd.read_csv('Data/AQI_final.csv')
+    mng_shp = gpd.read_file("/Users/turbold/Documents/Projects/Green Summer DS/mng-administrative-divisions-shapefiles/mng_admbndp_admALL_nso_itos_20201019.shp")
+    mng_shp.drop(['ADM2_PCODE', 'ADM2_REF', 'ADM2ALT1EN','ADM2ALT2EN', 'ADM2ALT1MN', 'ADM2ALT2MN', 'ADM1_PCODE', 'date', 'validOn', 'validTo'], axis=1, inplace=True)
+    mng_bd = gpd.read_file("/Users/turbold/Documents/Projects/Green Summer DS/mng-administrative-divisions-shapefiles/mng_admbnda_adm1_nso_20201019.shp")
+    return daily_avg, AQI_final, mng_shp, mng_bd
+
+daily_avg, AQI_final, mng_shp, mng_bd = load_data()
+
 st.title("State of the Air Report Mongolia")
 
 # Add an expandable section with multiple subsections
@@ -31,18 +43,6 @@ with st.expander('More Information'):
     # Add a subsection on the source code
     st.markdown('### Data')
     st.write('The data was obtained by querying the OpenAQ API, a platform that collects air quality information from government agencies and various other data sources. Source: https://openaq.org/')
-
-#Load Data and cache it so that it doesn't have to be loaded everytime I update the site
-@st.cache_data()
-def load_data():
-    daily_avg = pd.read_csv('Data/daily_avg.csv')
-    AQI_final = pd.read_csv('Data/AQI_final.csv')
-    mng_shp = gpd.read_file("/Users/turbold/Documents/Projects/Green Summer DS/mng-administrative-divisions-shapefiles/mng_admbndp_admALL_nso_itos_20201019.shp")
-    mng_shp.drop(['ADM2_PCODE', 'ADM2_REF', 'ADM2ALT1EN','ADM2ALT2EN', 'ADM2ALT1MN', 'ADM2ALT2MN', 'ADM1_PCODE', 'date', 'validOn', 'validTo'], axis=1, inplace=True)
-    mng_bd = gpd.read_file("/Users/turbold/Documents/Projects/Green Summer DS/mng-administrative-divisions-shapefiles/mng_admbnda_adm1_nso_20201019.shp")
-    return daily_avg, AQI_final, mng_shp, mng_bd
-
-daily_avg, AQI_final, mng_shp, mng_bd = load_data()
 
 # Convert the date column to a datetime object
 daily_avg['utc_time'] = pd.to_datetime(daily_avg['utc_time'], format='%Y-%m-%d')

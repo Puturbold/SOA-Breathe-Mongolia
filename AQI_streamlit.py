@@ -9,7 +9,7 @@ import geopandas as gpd
 import plotly.express as px
 
 #Load Data and cache it so that it doesn't have to be loaded everytime I update the site
-@st.cache()
+@st.cache_data()
 def load_data():
     daily_avg = pd.read_csv('Data/daily_avg.csv')
     AQI_final = pd.read_csv('Data/AQI_final.csv')

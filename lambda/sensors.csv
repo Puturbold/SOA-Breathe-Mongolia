@@ -1,0 +1,92 @@
+index,Location ID,City,Name,Start Date,geometry,address,nearest_city
+0,227901,,NAMEM Site near KG200,2021-06-11T18:43:19+00:00,POINT (107.118 47.8665),"Bayanzürkh, Ulaanbaatar, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+1,358188,,Maral hospital,2022-09-09T04:49:51+00:00,POINT (106.963264 47.918804),"Tsayz, Bayanzürkh, Ulaanbaatar, 13330, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+2,230482,,Zuunkharaa_01(Худалдааны гудамж),2020-11-27T22:24:22+00:00,POINT (106.45544 48.98557),"Bayangol, Selenge, Mongolia",
+3,232310,,Gobisumber_05 (Цаг уур),2021-08-16T07:04:20+00:00,POINT (108.380165 46.49039),"Bayantal, Govisumber, Mongolia",
+4,234145,,Umnugobi_03(90 орт),2023-05-23T17:57:18+00:00,POINT (104.4227 43.56753),"Dalanzadgad, Ömnögovi, Mongolia",Даланзадгад ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ
+5,525523,,Khuvsgul_01,2023-08-03T05:31:32+00:00,POINT (100.16647 49.638718),"A0902, Murun, Hovsgel, 97638, Mongolia",Мөрөн ᠮᠥᠷᠡᠨ
+6,490990,,Dynamic office,2021-01-05T21:43:05+00:00,POINT (106.908615 47.892483),"Zaisan, Khan-Uul, Ulaanbaatar, 17029, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+7,230483,,Ubs_01(Цаг уур),2023-05-23T17:29:27+00:00,POINT (92.06861 49.971558),"Ulaangom, Uvs, Mongolia",Улаангом ᠤᠯᠠᠭᠠᠩᠭ᠋ᠣᠮ
+8,230481,,Khobd_01(Цаг уур),2020-11-27T22:20:43+00:00,POINT (91.63353 47.995724),"6-р цэцэрлэг, Duut Road, Khovd, Jargalant, Khovd, 84000, Mongolia",Ховд
+9,230697,,Uburkhangai_01( Хас банк),2021-08-03T02:23:55+00:00,POINT (102.77983 46.263027),"Renchinpelje Street, Arvaikheer, Övörkhangai, Mongolia",Арвайхээр ᠠᠷᠪᠠᠶᠢᠬᠡᠭᠡᠷ
+10,525544,,Darkhan_01,2023-01-26T08:51:18+00:00,POINT (105.94039 49.49008),"гүлс гүлс авто угаалга, A0401, Darkhan, Darkhan-Uul, 49000, Mongolia",Дархан ᠳᠠᠷᠬᠠᠨ
+11,230489,,bayan-Ulgii_01(Цаг уур),2020-11-25T22:18:48+00:00,POINT (89.96492 48.96925),"Ölgii, Bayan-Ölgii, 83120, Mongolia",Өлгий
+12,230642,,Dornogobi_01(Цаг уур),2021-08-02T04:42:02+00:00,POINT (110.14117 44.89325),"машин зам, Sainshand, Dornogovi, Mongolia",Сайншанд ᠰᠠᠶᠢᠨᠱᠠᠩᠳᠠ
+13,230512,,bulgan_01(Цаг уур),2021-07-30T06:01:55+00:00,POINT (103.51873 48.81829),"Bulgan, Mongolia",Булган ᠪᠤᠯᠠᠭᠠᠨ
+14,525536,,Arkhangai,2023-01-26T08:49:40+00:00,POINT (101.46247 47.47228),"Erdenebulgan, Arkhangai, 65000, Mongolia",Эрдэнэбулган ᠡᠷᠳᠡᠨᠢᠪᠤᠯᠠᠭᠠᠨ
+15,525529,,Zavkhan_01,2023-07-31T05:26:42+00:00,POINT (96.843025 47.74261),"Uliastai, Zavkhan, Mongolia",Улиастай
+16,230510,,Dundgobi_01(Цаг уур),2023-05-23T17:29:23+00:00,POINT (106.27489 45.767166),"Цаг уурын төв, Улаанбаатар - Мандалговь, Mandalgovi, Saintsagaan, Dundgovi, 48000, Mongolia",Мандалговь
+17,525556,,Selenge_01,2023-01-26T08:55:44+00:00,POINT (106.192795 50.23964),"Sükhbaatar, Sukhbaatar, Selenge, Mongolia",Сүхбаатар
+18,230487,,Dornod_01(Цаг уур),2020-11-27T22:22:52+00:00,POINT (114.537224 48.080276),"10 -Р БАГ, Цаг уур, Choibalsan, Kherlen, Dornod, Mongolia",Чойбалсан
+19,525532,,Sukhbaatar_01,2023-01-26T08:29:05+00:00,POINT (113.28328 46.672695),"Baruun-Urt, Sükhbaatar, 22070, Mongolia",Баруун-Урт ᠪᠠᠷᠠᠭᠤᠨ ᠤᠷᠲᠤ
+20,72184,,Shangri-La,2023-05-23T18:00:37+00:00,POINT (106.92244 47.91247),"National Amusement Park of Mongolia, Chinggis Avenue, Baga Toirog, Sükhbaatar, Ulaanbaatar, 15650, Mongolia",Улан-Батор
+21,230505,,Gobi-Altai_01 (Эрүүл мэндийн газар),2023-05-23T18:00:29+00:00,POINT (96.261444 46.37375),"Altai, Yesönbulag, Govi-Altai, Mongolia",Алтай
+22,525503,,Khentii_01,2023-08-18T09:30:01+00:00,POINT (110.662 47.322),"Enderkhaan, Kherlen, Khentii, 93110, Mongolia",Өндөрхаан
+23,8160,N/A,Ulaanbaatar,2016-11-09T17:00:00+00:00,POINT (106.92947 47.928385),"Embassy of the United States, Денверийн гудамж, Baga Toirog, Sükhbaatar, Ulaanbaatar, 14171, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+24,226883,,Tub_01(Цаг уур),2023-05-23T17:29:54+00:00,POINT (106.901886 47.7125),"Ulaanbaatar - Mandalgovi Highway, Sergelen, Töv, Mongolia",
+25,400577,,MUST BEEC,2023-09-12T02:48:12+00:00,POINT (106.925125 47.921803),"Beijing Street, Baga Toirog, Sükhbaatar, Ulaanbaatar, 14120, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+26,275089,,PA_dae4,2022-01-07T09:30:35+00:00,POINT (100.72008 46.196995),"Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+27,234146,,Umnugobi_04(5-р сургууль),2023-06-07T15:24:31+00:00,POINT (104.42727 43.58554),"Булган - Даланзадгад, Dalanzadgad, Ömnögovi, Mongolia",Даланзадгад ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ
+28,230484,,Umnugobi_01( Цаг уур),2023-05-23T17:29:44+00:00,POINT (104.41902 43.57705),"Dalanzadgad, Ömnögovi, Mongolia",Даланзадгад ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ
+29,230480,,Khentii_01(Цэцэрлэгт хүрээлэн),2020-11-27T22:21:04+00:00,POINT (110.66209 47.32197),"Enderkhaan, Kherlen, Khentii, 93110, Mongolia",Өндөрхаан
+30,310527,,Ref_PA167,2023-06-06T05:08:17+00:00,POINT (100.7197 46.1972),"Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+31,230997,,Sukhbaatar_01(Цаг уур),2021-08-06T01:55:40+00:00,POINT (113.28328 46.672695),"Baruun-Urt, Sükhbaatar, 22070, Mongolia",Баруун-Урт ᠪᠠᠷᠠᠭᠤᠨ ᠤᠷᠲᠤ
+32,230501,,Zabkhan_01( Жинст баг),2023-05-23T18:00:25+00:00,POINT (96.843025 47.74261),"Uliastai, Zavkhan, Mongolia",Улиастай
+33,234457,,Umnugobi_02( 4-р сургууль),2021-09-02T03:18:22+00:00,POINT (104.41136 43.56279),"Dalanzadgad, Ömnögovi, Mongolia",Даланзадгад ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ
+34,230485,,Orkhon_02( Онцгой байдал),2023-05-23T18:00:57+00:00,POINT (104.02805 49.023888),"7th microdistrict (in construction), Tsagaan Chuluut, Erdenet, Bayan-Ondor, Orkhon, 61035, Mongolia",Эрдэнэт
+35,231488,,Darkhan_01 (Цаг уур),2021-08-10T03:12:21+00:00,POINT (105.94039 49.49008),"гүлс гүлс авто угаалга, A0401, Darkhan, Darkhan-Uul, 49000, Mongolia",Дархан ᠳᠠᠷᠬᠠᠨ
+36,231487,,Orkhon_01( Төгөлийн 4 зам),2021-08-10T02:07:58+00:00,POINT (104.04528 49.0275),"Хаан банк, 123, Эрх чөлөөний гудамж, 7th microdistrict (in construction), Bayan-Öndör, Erdenet, Bayan-Ondor, Orkhon, 61020, Mongolia",Эрдэнэт
+37,73748,,Yarmag_4horoo,2021-01-19T23:59:24+00:00,POINT (106.84438 47.87278),"Шүншиг вилла 2 хотхон, Khan-Uul, Ulaanbaatar, 17011, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+38,75573,,PublicLab,2021-01-20T02:37:06+00:00,POINT (106.924095 47.918648),"МУБИС, Baga Toiruu street, Baga Toirog, Sükhbaatar, Ulaanbaatar, 14192, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+39,235987,,Gobi-Altai_04 (8-р цэцэрлэг),2021-09-17T01:23:52+00:00,POINT (96.2515 46.365612),"1-р цэцэрлэг, A0303;A0304, Altai, Yesönbulag, Govi-Altai, Mongolia",Алтай
+40,235988,,Gobi-Altai_05 (1-р цэцэрлэг),2021-09-17T01:33:22+00:00,POINT (96.2595 46.3595),"Altai, Yesönbulag, Govi-Altai, Mongolia",Алтай
+41,235986,,Gobi-Altai_02 (1-р сургууль),2023-05-23T17:30:01+00:00,POINT (96.253334 46.37086),"1-р сургууль, A0303;A0304, Altai, Yesönbulag, Govi-Altai, Mongolia",Алтай
+42,235993,,Gobi-Altai_03 (4-р цэцэрлэг),2021-09-17T02:47:30+00:00,POINT (96.25894 46.37622),"4-р цэцэрлэг, Southern Route, Altai, Yesönbulag, Govi-Altai, Mongolia",Алтай
+43,230644,,Selenge_01(Цаг уур),2021-08-02T07:52:24+00:00,POINT (106.192795 50.23964),"Sükhbaatar, Sukhbaatar, Selenge, Mongolia",Сүхбаатар
+44,228112,,Baganuur_01,2020-11-27T22:19:41+00:00,POINT (108.37152 47.78481),"niigmiin eruul mendiin tuv, Baganuur - Jargaltkhaan, Baganuur, Ulaanbaatar, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+45,525533,,CLEM 17,2023-01-26T08:51:37+00:00,POINT (106.888664 47.893208),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+46,525510,,CLEM 1,2023-01-26T08:45:15+00:00,POINT (106.88366 47.893208),"Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+47,525506,,CLEM 14,2023-01-26T08:46:54+00:00,POINT (106.88566 47.893208),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+48,525522,,CLEM 4,2023-01-26T08:29:04+00:00,POINT (106.886665 47.893707),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+49,525545,,CLEM 18,2023-01-26T08:53:54+00:00,POINT (106.88266 47.893208),"Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+50,525517,,CLEM 5,2023-01-26T08:46:39+00:00,POINT (106.887665 47.893707),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+51,525515,,CLEM 15,2023-01-26T08:48:43+00:00,POINT (106.886665 47.893208),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+52,525498,,CLEM 3,2023-01-26T08:40:31+00:00,POINT (106.88566 47.893707),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+53,606927,,48,2023-02-14T23:29:55+00:00,POINT (106.91426 47.94156),"АШИУС, Чингэлтэйн өргөн чөлөө, Sükhbaatar, Ulaanbaatar, 14180, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+54,525548,,CLEM 9,2023-01-26T08:45:01+00:00,POINT (106.886665 47.892708),"Мишээл экспо, Чингисийн өргөн чөлөө, Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+55,525541,,CLEM 19,2023-01-26T08:53:31+00:00,POINT (106.88266 47.892708),"Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+56,525526,,CLEM 8,2023-01-26T08:39:16+00:00,POINT (106.88366 47.893707),"Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+57,525560,,CLEM 12,2023-01-26T08:51:24+00:00,POINT (106.88366 47.892708),"Khan-Uul, Ulaanbaatar, 11000, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+58,400384,,KG-3,2022-12-06T08:06:48+00:00,POINT (106.908875 47.916645),"Chingeltei, Ulaanbaatar, 15170, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+59,227900,,Kindergarten #122 Outdoor,2021-06-11T18:26:03+00:00,POINT (106.937195 47.91605),"Усан ориглууртай тоглоомын талбай, Сангийн хорооны гудамж, Bayanzürkh, Ulaanbaatar, 13372, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+60,290458,,New PA Reference PA 5e9,2021-10-07T19:45:07+00:00,POINT (100.72013 46.197216),"Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+61,230491,,Umnugobi_05(ДЦС),2020-11-27T22:20:28+00:00,POINT (104.433784 43.569553),"Dalanzadgad, Ömnögovi, Mongolia",Даланзадгад ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ
+62,230508,,Khubsgul_01,2020-11-27T22:23:09+00:00,POINT (100.16647 49.638718),"A0902, Murun, Hovsgel, 97638, Mongolia",Мөрөн ᠮᠥᠷᠡᠨ
+63,288892,,KG5_outdoor,2022-02-16T06:56:08+00:00,POINT (100.721695 46.193),"5-р сургууль, Three Zone Avenue, Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+64,289726,,Innovation Center (3575),2022-02-17T04:20:11+00:00,POINT (100.724014 46.21087),"Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+65,288931,,KG6_outdoor,2022-02-16T07:44:15+00:00,POINT (100.70144 46.198566),"Bayankhongor-Jargalant, Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+66,288960,,KG16_outdoor,2022-02-16T08:27:21+00:00,POINT (100.7127 46.190166),"Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+67,222045,,PLM/GTes,2021-03-09T07:17:26+00:00,POINT (101.27795 42.997803),"Gurvantes, Ömnögovi, Mongolia",
+68,230500,,Arkhangai_01(Цаг уур),2020-11-27T22:20:43+00:00,POINT (101.46247 47.47228),"Erdenebulgan, Arkhangai, 65000, Mongolia",Эрдэнэбулган ᠡᠷᠳᠡᠨᠢᠪᠤᠯᠠᠭᠠᠨ
+69,66073,,Shadivlan,2021-01-19T23:59:41+00:00,POINT (106.93127 48.01289),"Dambadarjaa, Sükhbaatar, Ulaanbaatar, 15110, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+70,230488,,Shariin gol_02 (ЗДТГ),2020-11-25T22:18:48+00:00,POINT (106.426125 49.248817),"15-р байр, Shariingol, Sharyn gol, Darkhan-Uul, 45010, Mongolia",
+71,230504,,Darkhan_03,2020-11-27T22:23:43+00:00,POINT (105.97347 49.45811),"Дархан ХААИС, Нью-Иорк толгойн зам, Darkhan, Darkhan-Uul, 45040, Mongolia",Дархан ᠳᠠᠷᠬᠠᠨ
+72,227899,,Kindergarten #45 Outdoor,2021-06-11T18:19:43+00:00,POINT (106.93601 47.93571),"Dari-Ekh, Bayanzürkh, Ulaanbaatar, 14171, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+73,275090,,PA_f2d9,2022-01-07T09:30:35+00:00,POINT (100.72008 46.196995),"Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+74,289785,,Background,2021-10-07T19:45:12+00:00,POINT (100.70898 46.17424),"niseh zurvas, Southern Route, Bayankhongor, Mongolia",Баянхонгор ᠪᠠᠶᠠᠨᠬᠣᠩᠭᠣᠷ
+75,66074,,SkhD34_PLM,2021-01-19T23:58:35+00:00,POINT (106.75255 47.920265),"Orbit, Songino Khairkhan, Ulaanbaatar, 18130, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+76,230645,,Mondavs,2021-08-02T10:49:24+00:00,POINT (106.9452 47.9261),"Dari-Ekh, Bayanzürkh, Ulaanbaatar, 13345, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+77,70913,,Officer_PLM,2021-01-14T01:18:51+00:00,POINT (106.97516 47.915367),"Anu Undral, 4-р байр, Peace Avenue, Tsayz, Bayanzürkh, Ulaanbaatar, 13331, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+78,65972,,PLM/FTKH,2021-01-19T23:59:06+00:00,POINT (106.9718 47.9154),"Шинжлэх ухааны 2-р хүрээлэн, 54B, Peace Avenue, Tsayz, Bayanzürkh, Ulaanbaatar, 13331, Mongolia",Улан-Батор
+79,70359,,UNESCO & Olympic,2021-01-14T01:19:06+00:00,POINT (106.925 47.9117),"UNESCO Street, Baga Toirog, Sükhbaatar, Ulaanbaatar, 14220, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+80,399296,,Ulaanbaatar,2021-02-02T19:35:12+00:00,POINT (106.93716 47.910355),"Bayanzürkh, Ulaanbaatar, 13372, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+81,59,,Nisekh,2016-02-16T08:30:00+00:00,POINT (106.779094 47.863943),"Нисэх ᠨᠢᠰᠬᠦ, Khan-Uul, Ulaanbaatar, 16103, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+82,23,,Amgalan,2016-01-30T00:30:00+00:00,POINT (106.99790699999998 47.913429),"Цагдаагийн академийн өргөн чөлөө, Ulaankhuaran, Bayanzürkh, Ulaanbaatar, 13260, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+83,811,,Tolgoit,2016-01-30T00:30:00+00:00,POINT (106.794805 47.922495),"Толгойтын гудамж, Songino Khairkhan, Ulaanbaatar, 18130, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+84,19,,MNB,2016-01-30T00:30:00+00:00,POINT (106.888629 47.929732),"Хувьсгалын зам, Gandan, Chingeltei, Ulaanbaatar, 16063, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+85,48,,Baruun 4 zam,2016-01-30T00:15:00+00:00,POINT (106.89419440000002 47.9153833),"Барилгын коллеж, Peace Avenue, Gandan, Bayangol, Ulaanbaatar, 16053, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+86,46,,Bukhiin urguu,2016-01-30T00:15:00+00:00,POINT (106.93736109999999 47.9176056),"Bayanzürkh, Ulaanbaatar, 13344, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+87,6523,,1-r khoroolol,2019-03-01T07:45:00+00:00,POINT (106.848061 47.917981),"72а, Хайрхан-3, 1-р хороолол, Songino Khairkhan, Ulaanbaatar, 16094, Mongolia",Улан-Батор
+88,2275,,Bayankhoshuu,2016-05-25T07:00:00+00:00,POINT (106.822752 47.95756),"Bayankhoshuu, Songino Khairkhan, Ulaanbaatar, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
+89,6489,,1-r khoroolol,2019-03-01T06:45:00+00:00,POINT (106.505302 47.550473),"Altanbulag, Töv, Mongolia",
+90,2448,,US Diplomatic Post: Ulaanbaatar,2016-01-30T01:00:00+00:00,POINT (106.930189 47.928444),"Embassy of the United States, Денверийн гудамж, Baga Toirog, Sükhbaatar, Ulaanbaatar, 14171, Mongolia",Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ
